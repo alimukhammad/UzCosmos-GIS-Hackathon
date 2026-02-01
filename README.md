@@ -5,4 +5,4 @@ follow the link to see the two focal points after analysis of data and answering
 https://rmituniversity.maps.arcgis.com/apps/dashboards/6395bc78a0ef4b5dadd20a388f058815
 
 
-![Alt text](relative/path/to/image.png)
+![Image Description](./image.png)
